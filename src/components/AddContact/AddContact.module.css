@@ -1,13 +1,13 @@
 .addContactStyle button {
   position: absolute;
-  top: 205px;
-  left: -31px;
+  top: 202px;
+  left: -27px;
   background-color: silver;
   border-bottom-left-radius: 87%;
   border-top-right-radius: 60%;
   border-top-left-radius: 10%;
   border-bottom-right-radius: 10%;
-  width: 70px;
+  width: 65px;
   height: 50px;
   padding-left: 18px;
   box-shadow: inset 2px 2px 5px rgba(94, 94, 94, 0.877);

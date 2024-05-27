@@ -3,16 +3,16 @@
   padding: 0;
   display: flex;
   position: absolute;
-  top: 135px;
-  left: 155px;
+  top: 131px;
+  left: 153px;
   border-bottom-right-radius: 90%;
   border-top-left-radius: 75%;
   overflow: hidden;
 }
 .paginationList button {
   background-color: silver;
-  width: 30px;
-  height: 32px;
-  padding-bottom: 7px;
+  width: 32px;
+  height: 35px;
+  padding-bottom: 6px;
   box-shadow: inset 2px 2px 5px rgba(94, 94, 94, 0.877);
 }
